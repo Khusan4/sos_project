@@ -35,3 +35,4 @@ assert (fromLinks([(1, 2), (1, 4), (2, 3), (3, 4)]) == {1: [2, 4], 2: [1, 3], 3:
 assert (fromLinks([[1, 2], [1, 4], [2, 3], [3, 4]]) == {1: [2, 4], 2: [1, 3], 3: [2, 4], 4: [1, 3]})
 
 print('fgdfgdfgdfggd')
+print('fgdfgdfgdfggd')
